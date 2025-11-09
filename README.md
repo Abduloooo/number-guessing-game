@@ -18,3 +18,6 @@ What I Learned
 - Using loops (while)
 - Handling user input
 - Comparing values and using conditionals
+
+
+This is an open-source project. You can edit the game to your liking and explain the changes to help me get a better understanding of Python.
